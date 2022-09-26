@@ -1,4 +1,4 @@
-# ProabAi-Normalizingflow-project
+# ProbAi-Normalizingflow-project
 
 ### Part A:
 #### Planar flow:
