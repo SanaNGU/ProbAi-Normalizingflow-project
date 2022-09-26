@@ -1,4 +1,10 @@
 # ProabAi-Normalizingflow-project
+
+### Part A:
+#### Planar flow:
+
+
+#### Real-nvp:
 _____________________________________________
 
 #### Part 2: CNF
