@@ -22,7 +22,7 @@ A-Two moon Data
 
 
 ## Important Notes:
-For CNF, we use the original code of the paper](https://github.com/rtqichen/torchdiffeq) with some modifications 
+For CNF, we use [the original code of the paper](https://github.com/rtqichen/torchdiffeq) with some modifications 
 
 
 
