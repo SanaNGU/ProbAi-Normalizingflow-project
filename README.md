@@ -21,5 +21,10 @@ A-Two moon Data
  <img src="https://github.com/SanaNGU/ProabAi-Normalizingflow-project/blob/main/CNF/cnf-viz-two_blobs.gif " width="900" height="300">
 
 
+## Important Notes:
+For CNF, we use the original code of the paper](https://github.com/rtqichen/torchdiffeq) with some modifications 
+
+
+
 
 
