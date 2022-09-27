@@ -19,7 +19,8 @@ _____________________________________________
 
 _____________________________________________
 
-#### Part 2: CNF
+## Part B: CNF
+
 See  [CNF_from_scratch.ipynb](https://github.com/SanaNGU/ProabAi-Normalizingflow-project/blob/main/CNF/CNF_from_scratch.ipynb) for the code and results
 
 A-Two moon Data
