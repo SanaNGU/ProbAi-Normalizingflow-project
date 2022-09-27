@@ -2,7 +2,7 @@
 ### Information on how to reproduce the code can be found on each notebook file
 
 ## Datasets:
-
+<img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/datasets/datasets.png " width="900" height="300">
 
 ### Part A:
 #### Planar flow:
