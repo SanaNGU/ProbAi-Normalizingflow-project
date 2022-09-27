@@ -5,6 +5,7 @@
 ##### Three dataset were used, and for more information about the datasets, you can check [Datasets.ipynb](https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/datasets/Datasets.ipynb) 
 
 <img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/datasets/datasets.png " width="900" height="300">
+
 _____________________________________________
 ## Part A:
 ### Planar flow:
