@@ -12,9 +12,9 @@
 
 #### Real-nvp:
 #### Results:
-<img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Real-nvp/data_moons.png " width="900" height="300"
-<img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Real-nvp/boomerang.png" width="900" height="300"
-<img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Real-nvp/two_blobs.png " width="900" height="300"
+<img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Real-nvp/data_moons.png " width="900" height="300">
+<img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Real-nvp/boomerang.png" width="900" height="300">
+<img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Real-nvp/two_blobs.png " width="900" height="300">
 
 _____________________________________________
 
