@@ -2,7 +2,7 @@
 ### Information on how to reproduce the code can be found on each notebook file
 
 ## Datasets:
-####### Three dataset were used, and for more information about the datasets, you can check [Datasets.ipynb](https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/datasets/Datasets.ipynb
+##### Three dataset were used, and for more information about the datasets, you can check [Datasets.ipynb](https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/datasets/Datasets.ipynb
 ) 
 
 <img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/datasets/datasets.png " width="900" height="300">
