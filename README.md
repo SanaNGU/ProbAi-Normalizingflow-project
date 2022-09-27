@@ -1,6 +1,9 @@
 # ProbAi-Normalizingflow-project
 ### Information on how to reproduce the code can be found on each notebook file
 
+## Datasets:
+
+
 ### Part A:
 #### Planar flow:
 
@@ -23,7 +26,8 @@ A-Two moon Data
 
 
 ## Important Notes:
-For CNF, we use [the original code of the paper](https://github.com/rtqichen/torchdiffeq) with some modifications 
+* Its easier to use google Colab to reproduce the resulte
+*dataFor CNF, we use [the original code of the paper](https://github.com/rtqichen/torchdiffeq) with some modifications 
 
 
 
