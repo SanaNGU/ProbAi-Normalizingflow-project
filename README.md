@@ -9,8 +9,7 @@
 _____________________________________________
 # Task 1
 ## Part B: Real-nvp:
-
-
+ See  [Planar-flow.ipynb](https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Real-nvp/Real_NVP.ipynb) for the code and results 
 ### Results:
 <img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Real-nvp/data_moons.png " width="500" height="500">
 <img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Real-nvp/boomerang.png" width="500" height="500">
