@@ -7,7 +7,8 @@
 <img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/datasets/datasets.png " width="900" height="300">
 
 _____________________________________________
-## Part A: Real-nvp:
+#Task 1
+## Part B: Real-nvp:
 
 
 ### Results:
@@ -25,7 +26,8 @@ _____________________________________________
 
 _____________________________________________
 
-## Part B: CNF
+#Task 2
+## CNF
 
 See  [CNF_from_scratch.ipynb](https://github.com/SanaNGU/ProabAi-Normalizingflow-project/blob/main/CNF/CNF_from_scratch.ipynb) for the code and results
 
