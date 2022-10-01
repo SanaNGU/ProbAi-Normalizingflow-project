@@ -44,9 +44,9 @@ A-Two moon Data
 
 ## Important Notes:
 
-** Its easier to use google Colab to reproduce the results
+* Its easier to use google Colab to reproduce the results
 
-**For CNF, I use [the original code of the paper](https://github.com/rtqichen/torchdiffeq) with some modifications 
+*For CNF, I use [the original code of the paper](https://github.com/rtqichen/torchdiffeq) with some modifications 
 
 
 
