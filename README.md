@@ -7,19 +7,20 @@
 <img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/datasets/datasets.png " width="900" height="300">
 
 _____________________________________________
-## Part A: Planar flow:
- See  [Planar-flow.ipynb](https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Planar/Planar_flow.ipynb) for the code and results 
+## Part A: Real-nvp:
+
+
 ### Results:
 <img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Real-nvp/data_moons.png " width="500" height="500">
 <img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Real-nvp/boomerang.png" width="500" height="500">
 <img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Real-nvp/two_blobs.png " width="500" height="500">
 _____________________________________________
-## Part A: Real-nvp:
-
+## Part A: Planar flow:
+ See  [Planar-flow.ipynb](https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Planar/Planar_flow.ipynb) for the code and results 
 ### Results:
-<img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Planar/planar-moon.png" width="500" height="500">
-<img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Planar/planar-blob.png" width="500" height="500">
-<img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Planar/planar-bloom.png " width="500" height="500">
+<img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Planar/planar-moon.png" width="900" height="300">
+<img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Planar/planar-blob.png" width="900" height="300">
+<img src="https://github.com/SanaNGU/ProbAi-Normalizingflow-project/blob/main/Planar/planar-bloom.png" width="900" height="300">
 
 _____________________________________________
 
